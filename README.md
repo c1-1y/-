@@ -7,7 +7,7 @@ markdown language - 글 서식 편집용 언어
 ## 고양이 강아지 보여주기
 
 ### 고양이
-<img src="cat.jpg">
+<img src="1761269406896.jpg">
 
 ### 반려동물 시스템 발표자료
 [네이버검색](https://www.naver.com)<br>
