@@ -1,5 +1,5 @@
 # -
-IT 테스터 deded
+IT 테스터 
 
 markdown language - 글 서식 편집용 언어
 
